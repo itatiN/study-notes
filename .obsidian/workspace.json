@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Docker.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -136,6 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e5fde2effa883f9",
+  "active": "75e3bad27bb98558",
   "lastOpenFiles": []
 }
