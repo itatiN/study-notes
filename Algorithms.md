@@ -1,6 +1,5 @@
 # Resume
 Algorithms is a sequence of instructions or commands carried out systematically in order to solve a problem or perform a certain task. There is communs algorithms that are used in, i will cover the most communs ones, but everything can turn into a algorithms, you just need to abstract it.
-Data structures are a storage that is used to store and organize data.
 
 ## Euclid's algorithm
 Used to find the greatest common diviser of two positive intergers.
