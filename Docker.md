@@ -1,4 +1,3 @@
-
 # Resume
 Docker is a type of virtualization in SO level that deliveres softwares called containers.
 	Is useful to mantain our piece of software running without the risk of conflits with others parts of your code.
