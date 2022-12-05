@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering.md",
+                "file": "UML/Use Case.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering.md",
+                "file": "UML/Use Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering.md",
+                "file": "UML/Use Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering.md"
+                "file": "UML/Use Case.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "072c1a293e9413e1",
   "lastOpenFiles": [
-    "HTTP.md",
-    "UML/Caso de Uso.md",
+    "Algorithms.md",
+    "UML/Use Case.md",
     "Software Engineering.md",
+    "HTTP.md",
     "User Experience.md",
     "Docker.md",
-    "Algorithms.md",
     "Big O notation.md",
     "assets/bigOgraph.png"
   ]
