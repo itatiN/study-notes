@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d96d9831c178ec74",
+        "id": "994205ee16af7c62",
         "type": "tabs",
         "children": [
           {
-            "id": "072c1a293e9413e1",
+            "id": "3949e802ddaba6eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Big O notation.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e948975a676fffc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP Pillars.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fcd23dd7302d3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Api Rest and RestFul.md",
-                "mode": "preview",
+                "file": "Solid.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Api Rest and RestFul.md",
+                "file": "Solid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Api Rest and RestFul.md",
+                "file": "Solid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Api Rest and RestFul.md"
+                "file": "Solid.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8fcd23dd7302d3b1",
+  "active": "3949e802ddaba6eb",
   "lastOpenFiles": [
-    "OOP Pillars.md",
-    "HTTP.md",
-    "ProgrammingParadigms.md",
-    "Programming.md",
-    "Big O notation.md",
-    "Docker.md",
     "User Experience.md",
     "Software Engineering.md",
+    "OOP Pillars.md",
+    "HTTP.md",
+    "Docker.md",
+    "Big O notation.md",
+    "Api Rest and RestFul.md",
     "Algorithms.md",
-    "UML/Use Case.md"
+    "UML/Use Case.md",
+    "ProgrammingParadigms.md"
   ]
 }
