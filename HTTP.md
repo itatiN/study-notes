@@ -6,7 +6,7 @@ HTTPS offers encryptation for the site. The S stands for Secure. He's often offe
 HTTP do not offer end-to-end encryptation.
 
 ## HTTP Request
-A http request is a way that client can make a request to the server. That request often contents a serie of things that are used to describe what exactly the client need. There are a basic list of comand that represend the CRUD ( create, read, update, delete) but there a lot more request than this list. If you need a more especific command go to developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods .
+A http request is a way that client can make a request to the server. That request often contents a serie of things that are used to describe what exactly the client need. There are a basic list of comand that represend the CRUD ( create, read, update, delete) but there a lot more request than this list. If you need a more especific command go to the [documentation](http://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods) .
 
 	Get: Used to obtain resources from the server.
 	Post: Is when the client need to send informatin to the server.

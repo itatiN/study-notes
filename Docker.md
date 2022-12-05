@@ -14,5 +14,5 @@ Docker is native on linux, on windows the same is not true. To use it on the bes
 Windows :  ` winget install docker.dockerdesktop `
 Linux:  `sudo apt-get install docker`
 MacOs:   `brew install docker`
-Without Terminal: go to docker.com
+Without Terminal: go to [docker](https://docker.com)
 
