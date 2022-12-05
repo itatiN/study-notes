@@ -1,7 +1,7 @@
 # Resume
 Is used to get the time complexity of a algorithm. 
 
-![[bigOgraph.png]]
+![[./assets/bigOgraph.png]]
 
 ## O(1)
 	Time complexity that are always the same idenpent of how much objets are in the algorithm.
