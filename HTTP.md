@@ -23,6 +23,7 @@ WIth every request comes a response, in HTTP the response is usually a code that
 	5XX: Error on server-side
 
 The most communs responses is: 
+
 	200 - Everything fine
 	301 - Permanent redirection
 	401 -  Not authorized
