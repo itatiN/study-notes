@@ -60,5 +60,19 @@ Take a primitive value or a data structure inside another structure
 	Solution: Create a new object using its properties.
 	Example: peter={ ...john };
 
+## Async Await
+Assyncronous functions, they need to take the time to run an then do what are supose to do.
+In resume is parts of our code that need other thing to be already done,so to do it the part need to wait.
+
 ## Fetch
-Send assync request to the server. Serves to acess/typesthings in external [APIS](obsidian://open?vault=study-notes&file=Api%20Rest%20and%20RestFul) .
+Send assync request to the server. Serves to acess things in external [APIS](obsidian://open?vault=study-notes&file=Api%20Rest%20and%20RestFul) .
+Fetch return a promise. 
+
+	.then: after the promise is receive, u can use .then and run a function of our needed.
+	Usualy use a arrow function.
+
+## Class
+	By convention, the first letter of a class is capitalized.
+	There is a part called constructor, which will have its main properties and code that will be executed when the class starts.
+	For the constructor to access/add properties it is necessary to use this. element.
+	You can pass parameters in the constructor and then call the parameter with this. parameter.
