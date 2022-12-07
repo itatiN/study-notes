@@ -76,3 +76,35 @@ Fetch return a promise.
 	There is a part called constructor, which will have its main properties and code that will be executed when the class starts.
 	For the constructor to access/add properties it is necessary to use this. element.
 	You can pass parameters in the constructor and then call the parameter with this. parameter.
+
+## Regex
+Regular Expression is used to make searches, validate characteres, and make substitution.
+You usually search the regex of your needed.
+
+## Console Object Methods
+	console.log: Display a message that you want.
+	console.warn: Display warning messages in yellow background.
+	console.error: Display error messages in red background.
+	console.clear: Used to clear the console.
+	console.timeEnd: Used to measure the time that a function is running.
+
+
+## Error Handling
+Is used to handle error in your code, usualy is most used when working with data from other sources or users input since those can be unreliable.
+Error handling uses the keywords try, catch, finally, throw.
+
+	try: Lets you test a block of code for error
+	catch: Lets you handle the error.
+	throw: Lets you create custom error.
+	finally: Lets you execute code after try and catch regardless of the result.
+
+
+## Web Storages
+There are 3 ways that you can store data in the browser, cookies, local storage and session storage.
+ 
+	Cookies: The smallest one. Is acessible from any window, you manually set when it expires, and you can sent with requests.
+	
+	Local Storage: The largest one. Is acessible from any window, never expires.
+	
+	Session Storage: The middle one. Is only acessible from the same tab and expires as soon as you close the tab.
+

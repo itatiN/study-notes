@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1239944a86adc77e",
+            "id": "7d3528f1c28413e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra/Computer Network.md",
-                "mode": "preview",
+                "file": "Javascript.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infra/Computer Network.md",
+                "file": "Javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infra/Computer Network.md",
+                "file": "Javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infra/Computer Network.md"
+                "file": "Javascript.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1239944a86adc77e",
+  "active": "7d3528f1c28413e2",
   "lastOpenFiles": [
+    "Infra/Computer Network.md",
+    "Javascript.md",
+    "Regex.md",
     "Docker.md",
     "Solid.md",
-    "Infra/Computer Network.md",
     "Algorithms.md",
     "Api Rest and RestFul.md",
     "Big O notation.md",
     "HTTP.md",
-    "Javascript.md",
-    "OOP pillars.md",
-    "Software Engineering.md"
+    "OOP pillars.md"
   ]
 }
