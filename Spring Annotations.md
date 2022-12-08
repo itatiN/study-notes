@@ -1,7 +1,7 @@
 ## Components
 	An annotation that allows Spring to automatically detect our custom beans.
 	In other words, without having to write any explicit code, Spring will:
-	-   Scan our application for classes annotated with _@Component_
+	-   Scan our application for classes annotated with @Component
 	-   Instantiate them and inject any specified dependencies into them
 	-   Inject them wherever needed
 
@@ -38,49 +38,33 @@
 	Indicates that a bean should be given preference when multiple candidates are qualified to autowire a single-valued dependency.
 
 
-## Scope
-
-
-
 ## Property Source
-
+	Is used to provide properties file to Spring Environment. This annotation is used with @Configuration classes. Spring PropertySource annotation is repeatable, means you can have multiple PropertySource on a Configuration class.
 
 
 ## Profile
-
-
-
-## Spring Boot Aplication
-
-
-
-## Enable auto Configuration
-
-
-
-## Configuration Properties
-
+	Spring Profiles provide a way to segregate parts of your application configuration and make it only available in certain environments.
 
 
 ## Rest Controller
-
+	Is a specialized version of the controller. It includes the @Controller and @ResponseBody annotations, and as a result, simplifies the controller implementation:
 
 
 ## Request Mapping
-
+	@RequestMapping is the most common and widely used annotation in Spring MVC. It is used to map web requests onto specific handler classes and/or handler methods. @RequestMapping can be applied to the controller class as well as methods.
 
 
 ## Request Body
-
+	@RequestBody annotation maps the HttpRequest body to a transfer or domain object, enabling automatic deserialization of the inbound HttpRequest body onto a Java object.
 
 
 ## Path Variable
-
+	 @PathVariable annotation can be used to handle template variables in the request URI mapping, and set them as method parameters.
 
 
 ## Request Param
-
+	We can use @RequestParam to extract query parameters, form parameters, and even files from the request.
 
 
 ## Cross Origin
-
+	 Is a security concept that allows restricting the resources implemented in web browsers. It prevents the JavaScript code producing or consuming the requests against different origin.
