@@ -1,0 +1,5 @@
+A **monolithic application** describes a single layered software application in which the user interface and data access code are combined into a single program from a single platform. 
+The design philosophy consists of an application that is not only responsible for a certain task, but that can also perform all the necessary steps to complete a certain function.
+A monolithic application describes a software application that is designed without modularity. Modularity is generally desirable as it supports the reuse of parts of the application logic and also facilitates maintenance by allowing repair or replacement of application parts without the need for bulk replacement.
+The extent to which an application is described as monolithic is perspective dependent.
+Software that is not service-oriented can be described as monolithic even though it is object-based and can be distributed.

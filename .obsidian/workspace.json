@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48786aba9e2292da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architecture/Monolithic Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML/UML.md",
+                "file": "Software Architecture/Monolithic Application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UML/UML.md",
+                "file": "Software Architecture/Monolithic Application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UML/UML.md"
+                "file": "Software Architecture/Monolithic Application.md"
               }
             }
           }
@@ -149,10 +161,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32ecc702600dd389",
+  "active": "48786aba9e2292da",
   "lastOpenFiles": [
-    "UML/Use Case.md",
     "UML/UML.md",
+    "UML/Use Case.md",
     "Software Architecture/Domain Driven Design.md",
     "Software Architecture/Test Driven Development.md",
     "Software Architecture/Clean Architecture.md",
