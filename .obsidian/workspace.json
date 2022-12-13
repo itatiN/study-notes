@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "51a805f4a6a0ee89",
+        "id": "245d5bf299dba27a",
         "type": "tabs",
         "children": [
           {
-            "id": "9a7280e77f099097",
+            "id": "0e884003c4097b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture/Domain Driven Design.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6214ee851eaf6831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Architecture/Test Driven Development.md",
+                "file": "Software Architecture/Clean Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/Test Driven Development.md",
+                "file": "Software Architecture/Clean Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/Test Driven Development.md",
+                "file": "Software Architecture/Clean Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/Test Driven Development.md"
+                "file": "Software Architecture/Clean Architecture.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6214ee851eaf6831",
+  "active": "0e884003c4097b09",
   "lastOpenFiles": [
-    "Software Architecture/Domain Driven Design.md",
-    "Algorithms.md",
     "Software Architecture/Test Driven Development.md",
+    "Software Architecture/Domain Driven Design.md",
+    "Software Architecture/Clean Architecture.md",
+    "Docker.md",
+    "Algorithms.md",
     "Infra/Computer Network.md",
     "Unix.md",
     "User Experience.md",
     "Spring Annotations.md",
-    "Solid.md",
-    "Software Engineering.md",
-    "OOP pillars.md"
+    "Solid.md"
   ]
 }
