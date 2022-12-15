@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "245d5bf299dba27a",
+        "id": "ef82c6e68110af3f",
         "type": "tabs",
         "children": [
           {
-            "id": "0e884003c4097b09",
+            "id": "1195b148dfc35f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture/Clean Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32ecc702600dd389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML/UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48786aba9e2292da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Architecture/Monolithic Application.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Architecture/Monolithic Application.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Architecture/Monolithic Application.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Architecture/Monolithic Application.md"
+                "file": "Python.md"
               }
             }
           }
@@ -161,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "48786aba9e2292da",
+  "active": "1195b148dfc35f69",
   "lastOpenFiles": [
+    "Web Crawler and Web Scraping.md",
+    "Solid.md",
+    "Software Architecture/Monolithic Application.md",
     "UML/UML.md",
     "UML/Use Case.md",
     "Software Architecture/Domain Driven Design.md",
     "Software Architecture/Test Driven Development.md",
     "Software Architecture/Clean Architecture.md",
     "Docker.md",
-    "Algorithms.md",
-    "Infra/Computer Network.md",
-    "Unix.md",
-    "User Experience.md"
+    "Algorithms.md"
   ]
 }
